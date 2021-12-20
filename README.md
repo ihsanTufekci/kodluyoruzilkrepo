@@ -1,5 +1,6 @@
 # Kodluyoruz Ilk Repo
 Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Fron-End eğitiminde oluşturduğumuz ilk repo. İçersinde bir adet README ve bir adet index.html barındırıyor.
+![kedi](https://i.pinimg.com/736x/2f/fa/a8/2ffaa83392a4c59570c0a97da5923f8d--cat-posters-cool-cats.jpg)
 
 ## Installation
 
