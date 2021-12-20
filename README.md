@@ -1,22 +1,27 @@
 # Kodluyoruz Ilk Repo
-Bu repo [kodluyoruz](https://www.kodluyoruz.org/)
+Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Fron-End eğitiminde oluşturduğumuz ilk repo. İçersinde bir adet README ve bir adet index.html barındırıyor.
 
-## Installatıon
+## Installation
 
-Oncelikle projeyi klonlayın.
-https://github.com/ihsanTufekci/kodluyoruzilkrepo.git
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+
+```bash
+git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+```
 
 ## Usage
 
-Projeyi klonladıktan sonra Visual Studio Code programından açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-### Linux için:
+Linux için:
+```linux
 cd kodluyoruzilkrepo
 code .
+```
 
 ## Contributing
-Pul requestler kabul edilir. büyük değişiklikler için, lütfen ilk önce neyi değiştirmek istediğinizi
-tartışmak için bir konu açınız
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-## Lisans
+
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
